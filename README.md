@@ -98,9 +98,4 @@ A visually appealing and interactive dashboard was created to showcase key insig
 
 ---
 
-## About
-This project was undertaken by Subham Jena, a final-year B.Tech student passionate about data analytics. For more information, visit my LinkedIn Profile or check out my other projects.
-
----
-
 This script includes all the details you provided and follows a clear structure to ensure usability. If you'd like to tweak any sections or add screenshots/links, let me know!

@@ -69,8 +69,6 @@ A visually appealing and interactive dashboard was created to showcase key insig
 3. **Profitability Insights**: Region-wise and product-wise profit trends.
 4. **Customer Behavior Analysis**: Insights based on customer segments.
 
-*(Include a screenshot of the dashboard or a link to view it, if available.)*
-
 ---
 
 ## Tools & Technologies Used

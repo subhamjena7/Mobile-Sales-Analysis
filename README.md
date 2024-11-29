@@ -88,3 +88,21 @@ A visually appealing and interactive dashboard was created to showcase key insig
    git clone https://github.com/<Your-GitHub-Username>/<Repository-Name>.git
 2. Open the .pbix file in Power BI Desktop.
 3. Review and customize the dashboard to suit your analysis needs.
+
+---
+
+## Key Learnings
+1. Data Cleaning: How to clean and transform raw data using PowerQuery.
+2. Custom Calendar Creation: Designing a calendar table for time intelligence.
+3. Data Modeling: Establishing relationships between tables in Power BI.
+4. DAX Calculations: Writing measures for advanced analytics like MTD, QTD, YTD, and SPLY.
+5. Dashboard Design: Crafting insightful and user-friendly visualizations.
+
+---
+
+## About
+This project was undertaken by Subham Jena, a final-year B.Tech student passionate about data analytics. For more information, visit my LinkedIn Profile or check out my other projects.
+
+---
+
+This script includes all the details you provided and follows a clear structure to ensure usability. If you'd like to tweak any sections or add screenshots/links, let me know!
